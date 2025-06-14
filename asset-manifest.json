@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myntora-site/static/css/main.3ab78840.css",
+    "main.js": "/myntora-site/static/js/main.614f5815.js",
+    "static/js/453.3fe9c6d5.chunk.js": "/myntora-site/static/js/453.3fe9c6d5.chunk.js",
+    "static/media/type-3.png": "/myntora-site/static/media/type-3.8fa6a8a233c535b716be.png",
+    "static/media/vintage.jpg": "/myntora-site/static/media/vintage.5c5bbec6cd5f165438f3.jpg",
+    "index.html": "/myntora-site/index.html",
+    "main.3ab78840.css.map": "/myntora-site/static/css/main.3ab78840.css.map",
+    "main.614f5815.js.map": "/myntora-site/static/js/main.614f5815.js.map",
+    "453.3fe9c6d5.chunk.js.map": "/myntora-site/static/js/453.3fe9c6d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab78840.css",
+    "static/js/main.614f5815.js"
+  ]
+}
